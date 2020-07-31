@@ -2,6 +2,9 @@
 layout: post
 title: Sample blog post
 subtitle: Each post also has a subtitle
+image: https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg
+description: this is the meta description of this page. 
+author: Joe A Kaczmarski
 tags: [test]
 comments: true
 permlink: test-markdown
