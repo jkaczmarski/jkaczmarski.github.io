@@ -2,6 +2,7 @@
 
 # Name of website
 title: Joe A Kaczmarski
+tagline: science & life
 
 # Short description of your site
 description: science life writings
@@ -216,4 +217,9 @@ plugins:
   - jekyll-seo-tag
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+twitter:
+  username: kaczmarski_joe
+  card: summary
+
 
