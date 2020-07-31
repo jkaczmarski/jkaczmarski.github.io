@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-## Hi, I'm Joe.  
+[## Hi, I'm Joe.](www.wikipedia.com)  
   
 - I'm a **structural biologist** (I study the shape of protein molecules to understand how they work).  
   
