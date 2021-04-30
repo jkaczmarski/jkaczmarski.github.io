@@ -5,7 +5,7 @@ subtitle: structural biologist, protein engineer, teacher & mentor
 
 ---
 
-## Education
+## 📚 Education
 **PhD, Research School of Chemistry**  
 The Australian National University, Canberra  
 Protein Structure, Evolution & Engineering  
@@ -21,19 +21,19 @@ GPA of 6.906/7
 The Friends’ School  
 ATAR – 99.90  							
   
-## Research Experience
+## 🧪 Research Experience
   
 ## Key Skills
   
 ## Research Presentations
   
-## Honours & Awards
+## 🏆 Honours & Awards
   
 ## Teaching Experience
   
 ## Leadership, Service & Community Involvement
   
-## Selected Publications
+## 📄 Selected Publications
 
 You can see a complete (and up-to-date) list of my publications on [my Google Scholar page.](https://scholar.google.com.au/citations?user=CJ6W4UsAAAAJ&hl=en)  
   
