@@ -1,25 +1,25 @@
 ---
 layout: page
 title: Dr Joe Alexander Kaczmarski
-subtitle: | STRUCTURAL BIOLOGIST | TEACHER & MENTOR | COMMUNICATOR |
-
+##subtitle: STRUCTURAL BIOLOGIST | TEACHER & MENTOR | COMMUNICATOR
 ---
+
 ## Education
-**PhD, Research School of Chemistry** 
-The Australian National University, Canberra
-Protein Structure, Evolution & Engineering
-Supervisor: Professor Colin Jackson
-
-**Bachelor of Philosophy (First Class Honours in Protein Chemistry)**
-The Australian National University, Canberra
-A competitive, research-focused science degree
-University Medal in Chemistry
-GPA of 6.906/7
-
-**High School Education**
-The Friends’ School
-ATAR – 99.90							
-
+**PhD, Research School of Chemistry**  
+The Australian National University, Canberra  
+Protein Structure, Evolution & Engineering  
+Supervisor: Professor Colin Jackson  
+  
+**Bachelor of Philosophy (First Class Honours in Protein Chemistry)**  
+The Australian National University, Canberra  
+A competitive, research-focused science degree  
+University Medal in Chemistry  
+GPA of 6.906/7  
+  
+**High School Education**  
+The Friends’ School  
+ATAR – 99.90  							
+  
 ## Research Experience
 
 ## Key Skills
@@ -34,9 +34,8 @@ ATAR – 99.90
 
 ## Selected Publications
 
-You can see a complete (and up-to-date) list of my publications on [my Google Scholar page.](https://scholar.google.com.au/citations?user=CJ6W4UsAAAAJ&hl=en)
-
-#### Published
+You can see a complete (and up-to-date) list of my publications on [my Google Scholar page.](https://scholar.google.com.au/citations?user=CJ6W4UsAAAAJ&hl=en)  
+  
 - **Kaczmarski JA**, Hong NS, Mukherjee B, Wey LT, Rourke L, Förster B, Peat TS, Price GD, Jackson CJ. 2019. [Structural basis for the allosteric regulation of the SbtA bicarbonate transporter by the PII-like protein, SbtB, from _Cyanobium_ sp. PCC7001.](https://pubs.acs.org/doi/abs/10.1021/acs.biochem.9b00880) **_Biochemistry_** 58:5030–5039. 
 - **Kaczmarski JA**, Mitchell JA, Spence MA, Vongsouthi V, Jackson CJ. 2019. [Structural and evolutionary approaches to the design and optimization of fluorescence-based small molecule biosensors.](https://www.sciencedirect.com/science/article/pii/S0959440X1830126X) **_Curr Opin Struct Biol_** 57:31–38. 
 - Greule A, Izoré T, Iftime D, Tailhades J, Schoppet M, Zhao Y, Peschke M, Ahmed I, Kulik A, Adamek M, Goode RJA, Schittenhelm RB, **Kaczmarski JA**, Jackson CJ, Ziemert N, Krenske EH, De Voss JJ, Stegmann E, Cryle MJ. 2019. [Kistamicin biosynthesis reveals the biosynthetic requirements for production of highly crosslinked glycopeptide antibiotics.](https://www.nature.com/articles/s41467-019-10384-w) **_Nat Commun_** 10:2613. 
