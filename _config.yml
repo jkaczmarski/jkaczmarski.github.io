@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: Joe A Kaczmarski
+title: Joe A. Kaczmarski
 tagline: science & life
 
 # Short description of your site
@@ -20,10 +20,10 @@ navbar-links:
 #    - Research Interests: "researchinterests"
 #    - Publications: "publications"
 #    - Contact: "contact"
-  Posts:
-    - Science: "aboutme"
-    - Life: "researchinterests"
-  Contact: contact
+  #Posts:
+  #  - Science: "aboutme"
+  #  - Life: "researchinterests"
+  Contact: "contact"
 
 # --- Logo --- #
 
