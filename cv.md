@@ -12,7 +12,7 @@ subtitle: structural biologist, protein engineer, teacher & mentor
 
 **2016 - 2020: PhD, Research School of Chemistry**  
 The Australian National University, Canberra  
-Thesis: [_The structure, dynamics, function and evolution of binding proteins](https://openresearch-repository.anu.edu.au/handle/1885/207339)  
+Thesis: [_The structure, dynamics, function and evolution of binding proteins_](https://openresearch-repository.anu.edu.au/handle/1885/207339)  
 Supervisor: Professor Colin Jackson  
 
 **2011 - 2014: Bachelor of Philosophy (First Class Honours in Protein Chemistry)**  
