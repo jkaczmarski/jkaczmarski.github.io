@@ -1,6 +1,10 @@
 ---
 layout: page
+title: Joe Kaczmarski, PhD
+subtitle: structural biologist, protein engineer, teacher & mentor
+
 ---
+
 ## Education
 **PhD, Research School of Chemistry**  
 The Australian National University, Canberra  
