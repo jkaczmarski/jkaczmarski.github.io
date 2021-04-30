@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dr Joe Alexander Kaczmarski
+## title: Dr Joe Alexander Kaczmarski
 ##subtitle: STRUCTURAL BIOLOGIST | TEACHER & MENTOR | COMMUNICATOR
 ---
 
@@ -16,22 +16,22 @@ A competitive, research-focused science degree
 University Medal in Chemistry  
 GPA of 6.906/7  
   
-**High School Education**  
+**High School**  
 The Friends’ School  
 ATAR – 99.90  							
   
 ## Research Experience
-
+  
 ## Key Skills
-
+  
 ## Research Presentations
-
+  
 ## Honours & Awards
-
+  
 ## Teaching Experience
-
+  
 ## Leadership, Service & Community Involvement
-
+  
 ## Selected Publications
 
 You can see a complete (and up-to-date) list of my publications on [my Google Scholar page.](https://scholar.google.com.au/citations?user=CJ6W4UsAAAAJ&hl=en)  
