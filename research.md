@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About me
-subtitle: Research Interests
+title: Research
 ---
 
 ---
