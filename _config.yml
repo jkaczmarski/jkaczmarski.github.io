@@ -23,6 +23,7 @@ navbar-links:
   #Posts:
   #  - Science: "aboutme"
   #  - Life: "researchinterests"
+  Blog: "blog"
   Contact: "contact"
 
 # --- Logo --- #
