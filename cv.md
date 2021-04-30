@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Joe A Kaczmarski, PhD
-subtitle: structural biologist, protein engineer, teacher & mentor
+title: Dr. Joe Alexander Kaczmarski
+subtitle: | structural biologist | protein engineer | teacher & mentor |
 
 ---
 
