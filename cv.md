@@ -1,9 +1,6 @@
 ---
 layout: page
-## title: Dr Joe Alexander Kaczmarski
-##subtitle: STRUCTURAL BIOLOGIST | TEACHER & MENTOR | COMMUNICATOR
 ---
-
 ## Education
 **PhD, Research School of Chemistry**  
 The Australian National University, Canberra  
