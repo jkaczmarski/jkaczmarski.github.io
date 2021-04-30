@@ -13,16 +13,8 @@ author: Joe A Kaczmarski
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-#  About Joe:
   Research: "research"
-  Publications: "publications"
-#    - About Joe: "aboutme"
-#    - Research Interests: "researchinterests"
-#    - Publications: "publications"
-#    - Contact: "contact"
-  #Posts:
-  #  - Science: "aboutme"
-  #  - Life: "researchinterests"
+  CV: "cv"
   Blog: "blog"
   Contact: "contact"
 
