@@ -6,17 +6,16 @@ subtitle: structural biologist, protein engineer, teacher & mentor
 ---
 
 ## Qualifications
-### 2020 - current  
-**Postdoctoral Researcher, Research School of Chemistry**  
 
-### 2016 - 2020
-**PhD, Research School of Chemistry**  
+**2020 - current: Postdoctoral Researcher, Research School of Chemistry**  
+
+
+**2016 - 2020: PhD, Research School of Chemistry**  
 The Australian National University, Canberra  
 Thesis: [_The structure, dynamics, function and evolution of binding proteins](https://openresearch-repository.anu.edu.au/handle/1885/207339)  
 Supervisor: Professor Colin Jackson  
 
-### 2011 - 2014
-**Bachelor of Philosophy (First Class Honours in Protein Chemistry)**  
+**2011 - 2014: Bachelor of Philosophy (First Class Honours in Protein Chemistry)**  
 The Australian National University, Canberra  
 A competitive, research-focused science degree  
 University Medal in Chemistry  
@@ -53,7 +52,7 @@ You can see a complete (and up-to-date) list of my publications on [my Google Sc
 - **Kaczmarski JA**, Corry B. 2014. [Investigating the size and dynamics of voltage-gated sodium channel fenestrations: A molecular dynamics study.](https://www.tandfonline.com/doi/full/10.4161/chan.28136) **_Channels_** 8:264–277. 
 
 #### Pre-prints
-Max Cryle, Thierry Izore, YT Ho, **Joe Kaczmarski**, Athina Gavriilidou, Ka Chow, David Steer, Robert Goode, Ralf Schittenhelm, Julien Tailhades, Manuela Tosin, Gregory Challis, Elizabeth Krenske, Nadine Ziemert, Colin Jackson. 2021. [Understanding condensation domain selectivity in non-ribosomal peptide biosynthesis: structural characterization of the acceptor bound state](10.21203/rs.3.rs-125509/v1) **_Research Square_** 
+- Max Cryle, Thierry Izore, YT Ho, **Joe Kaczmarski**, Athina Gavriilidou, Ka Chow, David Steer, Robert Goode, Ralf Schittenhelm, Julien Tailhades, Manuela Tosin, Gregory Challis, Elizabeth Krenske, Nadine Ziemert, Colin Jackson. 2021. [Understanding condensation domain selectivity in non-ribosomal peptide biosynthesis: structural characterization of the acceptor bound state](10.21203/rs.3.rs-125509/v1) **_Research Square_** 
 
 ## Referees
 Referee contact details and/or reference letters are available upon request. 
