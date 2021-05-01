@@ -245,3 +245,5 @@ jekyll_compose:
       published: true
       sitemap: true
       excerpt_separator: <!--more-->
+
+remote_theme: daattali/beautiful-jekyll@5.0.0
