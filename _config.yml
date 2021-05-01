@@ -209,6 +209,8 @@ exclude:
   - screenshot.png
   - docs/
 
+url: "https://jkaczmarski.com"
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
