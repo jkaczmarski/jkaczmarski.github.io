@@ -7,46 +7,89 @@ subtitle: structural biologist | protein engineer | teacher & mentor
 {% include social-networks-links.html %}
 &nbsp;
 
-### Personal Statement
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 ### Qualifications
 
-2020 - current   
+**2020 - current**  
 **Postdoctoral Researcher, Research School of Chemistry**  
 
 
-2016 - 2020  
+**2016 - 2020**  
 **PhD, Research School of Chemistry**  
 The Australian National University, Canberra  
-Thesis: [_The structure, dynamics, function and evolution of binding proteins_](https://openresearch-repository.anu.edu.au/handle/1885/207339)  
+Thesis: <a href="https://openresearch-repository.anu.edu.au/handle/1885/207339" target="_blank" >The structure, dynamics, function and evolution of binding proteins</a>  
 Supervisor: Professor Colin Jackson  
 
-2011 - 2014  
+**2011 - 2014**  
 **Bachelor of Philosophy (First Class Honours in Protein Chemistry)**  
 The Australian National University, Canberra  
 A competitive, research-focused science degree  
-University Medal in Chemistry  
+🏅University Medal in Chemistry  
 GPA of 6.906/7  
   
 **High School**  
 The Friends’ School  
 ATAR – 99.90  							
-  
-### Research Experience
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 ### Key Skills
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Laboratory-based**
+X-ray crystallography, protein expression, protein purification, isothermal titration calorimetry, cloning (traditional, Gibson Assembly), in-cell assay development, circular dichroism, enzyme kinetics, differential scanning fluorimetry, surface-plasmon resonance.  
+
+**Computer-based (science)**
+Molecular dynamics (Desmond, Gromacs, NAMD), molecular docking (Glide, AutoDock), ancestral protein reconstruction, phylogenetic analysis, homology modelling  
+   
+**Computer-based (other)**
+Microsoft Office, R, Python, photo & video editing, website design & management, social media management, Adobe Creative Suite.   
+  
+**Other**
+Science communication, teaching & student supervision, leadership.   
+
 ### Research Presentations
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Oral presentations**
+-	Lorne Protein Conference 2021. _“Altered conformational sampling along an evolutionary trajectory changes the catalytic activity of an enzyme”_
+-	Biomolecular Machines Conference, Banff, Canada. May 2017. _“Conformational sampling is altered during the emergence and evolution of new enzyme activity”_. **Best Student Talk Award.**🏆
+-	Research School of Chemistry’s Celebration of HDR Chemistry, Nov 2017. _“The molecular machines of life”_. **Best Presentation Award.**🏆
+
+**Poster presentations**
+-	Lorne Protein Conference, Feb 2019. _“Molecular basis for the regulation of bicarbonate transport by the cyanobacterial PII-like protein, SbtB”_. **Poster Prize.**🏆
+-	Lorne Protein Conference, Feb 2018. _“From binding protein to enzyme. Evolution of cyclohexadienyl dehydratase from an ancestral solute-binding protein”_. **Poster Prize.**🏆
+-	Melbourne Protein Group Symposium, 2017. _“Introducing catalysis into non-catalytic protein folds: how nature does it”_. 
+-	Synthetic Biology: Evolution, Engineering & Design Conference, Vancouver, Canada. June 2017. _“From binding protein to enzyme. Evolution of cyclohexadienyl dehydratase from an ancestral solute-binding protein”_. 
+-	Gordon Research Conference: Molecular Mechanisms in Evolution. June 2017. _“From binding protein to enzyme. Evolution of cyclohexadienyl dehydratase from an ancestral solute-binding protein”_.
+-	Lorne Protein Conference, Feb 2017. _“From binding protein to enzyme: Investigating the emergence of cyclohexadienyl dehydratase activity from non-catalytic ancestral proteins”_. 
+-	ComBio Conference, Brisbane, October 2016. _“From binding protein to enzyme: Investigating the emergence of cyclohexadienyl dehydratase activity from non-catalytic ancestral proteins.”_ **ASBMB Poster Prize.**🏆
+-	Australian Society for Biophysics Membrane Transport Satellite Meeting, Dec 2012. _“Investigating the interactions of sontochin and analogues with the Plasmodium falciparum Chloroquine Resistance Transporter (PfCRT).”_ 
+
+
+
 ### Honours & Awards
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**2019** Australian Society for Biochemistry and Molecular Biology Fellowship  
+**2016-2018** Research School of Chemistry Postgraduate Teaching Fellowship  
+**2016-2020** Research School of Chemistry PhD Scholarship  
+**2016-2020** Australian Government Research Training Program Stipend Scholarship  
+**2017** Vice Chancellor’s Travel Grant  
+**2014** University Medal in Chemistry	  
+**2011-2014** National Undergraduate Scholarship  
+**2012-2013** Summer Research Program Scholarship	  
+
 ### Teaching Experience
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**2019-current**  Direct supervision of 9 Undergraduate & Honours Project Students  
+**2013-2020**     Tutor/Lab Demonstrator/Exam marker, Chemistry (1st year course), Chemical Biology (2nd year course), Protein Engineering (2nd year and 3rd year courses).  
+**2017-2018** Lecturer, Chemistry Bridging Course, ANU  
 ### Leadership, Service & Community Involvement
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**2019-current** ASBMB Australian Biochemist Editorial Board Member  
+**2020** Meristem Volunteer  
+**2018-2020** Canberra Protein Group Committee Member (ASBMB)  
+**2019** “Shirty Science” Participant (National Science Week, outreach program)  
+**2017-2018** Research School of Chemistry Higher Degree Research Student Representative Committee Member  
+**2011-current** National Youth Science Forum Volunteer & Alumni Representative  
+
 {% include publications.html %}
-&nbsp;
+<br>
+### Employment History (other)
+**2014 – 2016** Tour guide & bus driver, Bruny Island Safaris  
+**2008 – 2011**	Wilderness Tour Guide, Tasmanian Walking company  
+
+
 ### Referees
 Referee contact details and/or reference letters are available upon request. 
 

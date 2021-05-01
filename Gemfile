@@ -8,3 +8,9 @@ gem 'jekyll-sitemap'
 gem "kramdown-parser-gfm"
 
 gem 'jekyll-compose', group: [:jekyll_plugins]
+
+group :jekyll_plugins do
+  gem "jekyll-youtube"
+end
+
+gem 'jekyll-tagging', group: [:jekyll_plugins]

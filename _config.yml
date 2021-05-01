@@ -215,6 +215,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll/tagging
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
@@ -232,9 +233,14 @@ jekyll_compose:
       image:
       category:
       tags:      
-      published: false
-      sitemap: false
+      published: true
+      sitemap: true 
       excerpt_separator: <!--more-->
+      cover-img: 
+      thumbnail-img: 
+      share-img:
+      comments: true
+      subscription-form: true
     posts:
       last_modified_at: 
       permalink: 
@@ -245,5 +251,14 @@ jekyll_compose:
       published: true
       sitemap: true
       excerpt_separator: <!--more-->
+      cover-img: 
+      thumbnail-img: 
+      share-img:
+      comments: true
+      subscription-form: true
 
 remote_theme: daattali/beautiful-jekyll@5.0.0
+
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty
