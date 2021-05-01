@@ -14,6 +14,7 @@ author: Joe A Kaczmarski
 
 navbar-links:
   Research: "research"
+  Publications: "publications"
   CV: "cv"
   Blog: "blog"
   Contact: "contact"
@@ -174,6 +175,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/blog/page:num/"
 
 kramdown:
   input: GFM

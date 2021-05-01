@@ -23,7 +23,7 @@ If you would like to see my full CV, please [email me](kaczmarski.joe@gmail.com)
 #### Current Position
 - **Research Scientist**, Australian National University, 2020 -
 
-#### Education
+#### ~~Education~~
 - **Ph.D.**, Australian National University, 2020  
 - **Ph.B.**, Australian National University, 2014 (A research-focused science degree, including First Class Honours)
 
