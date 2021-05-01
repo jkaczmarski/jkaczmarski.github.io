@@ -5,7 +5,7 @@ title: Joe Kaczmarski (🚧 site under construction 🚧)
 tagline: science & life
 
 # Short description of your site
-description: science life writings
+description: Welcome to my personal website (Dr Joe Alexander Kaczmarski). Find out more about my research, or explore my blog posts about science, life & everything in between. 
 
 # Your name to show in the footer
 author: Joe A Kaczmarski
@@ -106,12 +106,12 @@ footer-link-col: "#404040"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+#gtag: "G-D4HZ048ETP"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-174177413-2"
+google_analytics: "G-D4HZ048ETP"
 
-# Google Tag Manager ID
+#Google Tag Manager ID
 #gtm: ""
 
 # Matomo (aka Piwik) Web statistics
@@ -219,5 +219,27 @@ plugins:
 twitter:
   username: kaczmarski_joe
   card: summary
-
-
+        
+jekyll_compose:
+  auto_open: true
+  default_front_matter:
+    drafts:
+      last_modified_at: 
+      permalink: 
+      description:
+      image:
+      category:
+      tags:      
+      published: false
+      sitemap: false
+      excerpt_separator: <!--more-->
+    posts:
+      last_modified_at: 
+      permalink: 
+      description:
+      image:
+      category:
+      tags:
+      published: true
+      sitemap: true
+      excerpt_separator: <!--more-->
