@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 👋 Hello!
-subtitle: thanks for dropping by
+subtitle: 🚧 site under construction 🚧
 # cover-img: "/assets/img/ProteinEng.jpeg"
 ---
 ![Protein Engineering](/assets/img/ProteinEng.jpeg){:class="img-responsive"}  
