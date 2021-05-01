@@ -16,7 +16,7 @@ subtitle: structural biologist | protein engineer | teacher & mentor
 **2016 - 2020**  
 **PhD, Research School of Chemistry**  
 The Australian National University, Canberra  
-Thesis: <a href="https://openresearch-repository.anu.edu.au/handle/1885/207339" target="_blank" >The structure, dynamics, function and evolution of binding proteins</a>  
+Thesis: <a href="https://openresearch-repository.anu.edu.au/handle/1885/207339" target="_blank" ><i>The structure, dynamics, function and evolution of binding proteins</i></a>  
 Supervisor: Professor Colin Jackson  
 
 **2011 - 2014**  
@@ -45,9 +45,9 @@ Science communication, teaching & student supervision, leadership.
 
 ### Research Presentations
 **Oral presentations**
--	Lorne Protein Conference 2021. _“Altered conformational sampling along an evolutionary trajectory changes the catalytic activity of an enzyme”_
--	Biomolecular Machines Conference, Banff, Canada. May 2017. _“Conformational sampling is altered during the emergence and evolution of new enzyme activity”_. **Best Student Talk Award.**🏆
--	Research School of Chemistry’s Celebration of HDR Chemistry, Nov 2017. _“The molecular machines of life”_. **Best Presentation Award.**🏆
+-	**2021** Lorne Protein Conference. _“Altered conformational sampling along an evolutionary trajectory changes the catalytic activity of an enzyme”_
+-	**2017** Biomolecular Machines Conference, Banff, Canada. _“Conformational sampling is altered during the emergence and evolution of new enzyme activity”_. **Best Student Talk Award.**🏆
+-	**2017** Research School of Chemistry’s Celebration of HDR Chemistry. _“The molecular machines of life”_. **Best Presentation Award.**🏆
 
 **Poster presentations**
 -	Lorne Protein Conference, Feb 2019. _“Molecular basis for the regulation of bicarbonate transport by the cyanobacterial PII-like protein, SbtB”_. **Poster Prize.**🏆
