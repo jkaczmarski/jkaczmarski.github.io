@@ -4,12 +4,14 @@ layout: page
 ---
 
 ### 🚧 page under construction 🚧
-&nbsp;
+
+I am using a combination of structural (e.g.&nbsp;X-ray crystallography), biophysical (e.g.&nbsp;isothermal titration calorimetry), computational (e.g.&nbsp;molecular dynamics simulations and computational docking) and evolution-based (e.g.&nbsp;consensus design & ancestral sequence reconstruction) approaches to understand and engineer a range of molecular interactions. This page provides an overview of some of my current research interests and related publications. 
+
 #### Structural Immunology
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla iaculis mi eu interdum sagittis. Donec erat nisl, tempor nec massa vitae, auctor condimentum elit. Morbi commodo massa a nisl viverra volutpat ac et ex. Cras rutrum purus nulla, et tristique mi scelerisque eget. Pellentesque ac tortor tincidunt mauris semper consequat. Quisque consequat, dolor id lacinia tincidunt, nisl nisl lacinia quam, a egestas ipsum urna eu lorem. Mauris non arcu bibendum, porttitor metus venenatis, aliquet dui. Nulla varius massa at neque feugiat, quis ullamcorper tortor posuere.
-- Fisher CR, Sutton HJ, **Kaczmarski JA**, McNamara HA, Clifton B, Mitchell J, Cai Y, Dups JN, D’Arcy NJ, Singh M, Chuah A, Peat TS, Jackson CJ, Cockburn IA. 2017. [T-dependent B cell responses to _Plasmodium_ induce antibodies that form a high-avidity multivalent complex with the circumsporozoite protein.](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006469) **_PLoS Pathog_** 13:1–23.
-- Lewis FJ, Chatterjee D, **Kaczmarski JA**, Gao X, Cai Y, McNamara HA, Sutton HJ, Jackson CJ, Cockburn IA. 2020. [Avid binding by B cells to the _Plasmodium_ circumsporozoite protein repeat suppresses responses to protective subdominant epitopes.](https://www.biorxiv.org/content/10.1101/2020.01.12.903682v1) **_bioRxiv_** 2020.01.12.903682.  
+<li>Fisher CR, Sutton HJ, <strong>Kaczmarski JA</strong>, McNamara HA, Clifton B, Mitchell J, Cai Y, Dups JN, D’Arcy NJ, Singh M, Chuah A, Peat TS, Jackson CJ, Cockburn IA. 2017. <a href="https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006469">T-dependent B cell responses to <em>Plasmodium</em> induce antibodies that form a high-avidity multivalent complex with the circumsporozoite protein.</a> <strong><em>PLoS Pathog</em></strong> 13:1–23.</li>
+<li>Chatterjee D, Lewis FJ, Sutton HJ, <strong>Kaczmarski JA</strong>, Gao X, Cai Y, McNamara HA, Jackson CJ, Cockburn IA. 2021. <a href="https://doi.org/10.1016/j.celrep.2021.108996">Avid binding by B cells to the <em>Plasmodium</em> circumsporozoite protein repeat suppresses responses to protective subdominant epitopes.</a> <strong><em>Cell Reports</em></strong> 35(2):108996</li>
 
 &nbsp;
 #### Protein Engineering
@@ -36,14 +38,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla iaculis mi eu int
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla iaculis mi eu interdum sagittis. Donec erat nisl, tempor nec massa vitae, auctor condimentum elit. Morbi commodo massa a nisl viverra volutpat ac et ex. Cras rutrum purus nulla, et tristique mi scelerisque eget. Pellentesque ac tortor tincidunt mauris semper consequat. Quisque consequat, dolor id lacinia tincidunt, nisl nisl lacinia quam, a egestas ipsum urna eu lorem. Mauris non arcu bibendum, porttitor metus venenatis, aliquet dui. Nulla varius massa at neque feugiat, quis ullamcorper tortor posuere. 
 - Clifton BE, **Kaczmarski JA**, Carr PD, Gerth ML, Tokuriki N, Jackson CJ. 2018. [Evolution of cyclohexadienyl dehydratase from an ancestral solute-binding protein.](https://www.nature.com/articles/s41589-018-0043-2) **_Nat Chem Biol_** 14:542–547. 
-- **Kaczmarski JA**, Mahawaththa MC, Feintuch A, Clifton BE, Adams LA, Goldfarb D, Otting G, Jackson CJ. 2020. [Altered conformational sampling along an evolutionary trajectory changes the catalytic activity of an enzyme.](https://www.biorxiv.org/content/10.1101/2020.02.03.932491v1) **_bioRxiv_** 2020.02.03.932491. 
+
 
 &nbsp;
 #### Protein Dynamics
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla iaculis mi eu interdum sagittis. Donec erat nisl, tempor nec massa vitae, auctor condimentum elit. Morbi commodo massa a nisl viverra volutpat ac et ex. Cras rutrum purus nulla, et tristique mi scelerisque eget. Pellentesque ac tortor tincidunt mauris semper consequat. Quisque consequat, dolor id lacinia tincidunt, nisl nisl lacinia quam, a egestas ipsum urna eu lorem. Mauris non arcu bibendum, porttitor metus venenatis, aliquet dui. Nulla varius massa at neque feugiat, quis ullamcorper tortor posuere.  
 - Clifton BE, **Kaczmarski JA**, Carr PD, Gerth ML, Tokuriki N, Jackson CJ. 2018. [Evolution of cyclohexadienyl dehydratase from an ancestral solute-binding protein.](https://www.nature.com/articles/s41589-018-0043-2) **_Nat Chem Biol_** 14:542–547. 
-- **Kaczmarski JA**, Mahawaththa MC, Feintuch A, Clifton BE, Adams LA, Goldfarb D, Otting G, Jackson CJ. 2020. [Altered conformational sampling along an evolutionary trajectory changes the catalytic activity of an enzyme.](https://www.biorxiv.org/content/10.1101/2020.02.03.932491v1) **_bioRxiv_** 2020.02.03.932491. 
 - **Kaczmarski JA**, Corry B. 2014. [Investigating the size and dynamics of voltage-gated sodium channel fenestrations: A molecular dynamics study.](https://www.tandfonline.com/doi/full/10.4161/chan.28136) **_Channels_** 8:264–277. 
   
 ----
