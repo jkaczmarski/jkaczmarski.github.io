@@ -9,7 +9,8 @@ I am using a combination of structural (e.g.&nbsp;X-ray crystallography), biophy
 
 I am working under the amazing guidance of [Professor Colin Jackson at the Australian National University](https://jacksonlab.wordpress.com/), and have the pleasure of working with some amazing collaborators. 
 &nbsp;
-  
+<br>  
+![Lab Bench, RSC](/assets/img/lab_stock/lab_bench_pipette.jpg){:class="img-responsive"}  
 &nbsp;
 #### Protein Evolution
 ---
