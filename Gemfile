@@ -11,6 +11,8 @@ gem 'jekyll-compose', group: [:jekyll_plugins]
 
 group :jekyll_plugins do
   gem "jekyll-youtube"
+  gem "jekyll-gist"
+  gem "jekyll-twitter-plugin"
 end
 
 gem 'jekyll-tagging', group: [:jekyll_plugins]

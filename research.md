@@ -48,8 +48,6 @@ In my first publication, I worked under the supervision of Ben Corry (ANU) to st
 <li>Izoré, T, Candace H, <strong>Kaczmarski JA</strong>, Gavriilidou A, Chow KH, Steer DL,  Goode RJA, Schittenhelm RB, Tailhades J, Tosin M, Challis GL, Krenske EH, Ziemert N, Jackson CJ & Cryle MJ. 2021. <a href="https://doi-org.virtual.anu.edu.au/10.1038/s41467-021-22623-0">Structures of a non-ribosomal peptide synthetase condensation domain suggest the basis of substrate selectivity.</a><strong><em>Nat Commun</em></strong> 12: 2511. </li>
 <li>Greule A, Izoré T, Iftime D, Tailhades J, Schoppet M, Zhao Y, Peschke M, Ahmed I, Kulik A, Adamek M, Goode RJA, Schittenhelm RB, <strong>Kaczmarski JA</strong>, Jackson CJ, Ziemert N, Krenske EH, De Voss JJ, Stegmann E, Cryle MJ. 2019. <a href="https://www.nature.com/articles/s41467-019-10384-w">Kistamicin biosynthesis reveals the biosynthetic requirements for production of highly crosslinked glycopeptide antibiotics.</a> <strong><em>Nat Commun</em></strong> 10:2613. </li>
 <li>Izoré T, Tailhades J, Hansen MH, <strong>Kaczmarski JA</strong>, Jackson CJ, Cryle MJ. 2019. <a href="https://www.pnas.org/content/116/8/2913.short"><em>Drosophila melanogaster</em> nonribosomal peptide synthetase Ebony encodes an atypical condensation domain.</a> <strong><em>Proc Natl Acad Sci USA</em></strong> 116:2913–2918. </li>
-<li>Izoré T, Tailhades J, Hansen MH, <strong>Kaczmarski JA</strong>, Jackson CJ, Cryle MJ. 2019. <a href="https://www.pnas.org/content/116/8/2913.short"><em>Drosophila melanogaster</em> nonribosomal peptide synthetase Ebony encodes an atypical condensation domain.</a> <strong><em>Proc Natl Acad Sci USA</em></strong> 116:2913–2918. </li>
-<br>
 
 #### Structural Immunology
 ---
