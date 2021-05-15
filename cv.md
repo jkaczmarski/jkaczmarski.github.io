@@ -79,15 +79,17 @@ Science communication, teaching & student supervision, leadership.
 **2019-current** ASBMB Australian Biochemist Editorial Board Member  
 **2020** Meristem Volunteer  
 **2018-2020** Canberra Protein Group Committee Member (ASBMB)  
-**2019** “Shirty Science” Participant (National Science Week, outreach program)  
+**2019** <a href="http://www.shirtyscience.com/uploads/8/5/5/6/85566438/protein_orig.png" target="_blank"> "Shirty Science" Participant </a> (National Science Week, outreach program)  
 **2017-2018** Research School of Chemistry Higher Degree Research Student Representative Committee Member  
 **2011-current** National Youth Science Forum Volunteer & Alumni Representative  
 
 {% include publications.html %}
 <br>
 ### Employment History (other)
-**2014 – 2016** Tour guide & bus driver, Bruny Island Safaris  
-**2008 – 2011**	Wilderness Tour Guide, Tasmanian Walking company  
+![Bruny Island Safaris](/assets/img/BrunyIslandSafaris.jpeg){:class="img-responsive", width="300"}
+<br>  
+**2014 – 2016** Tour guide & bus driver, <a href="https://www.brunyislandsafaris.com/" target="_blank">Bruny Island Safaris</a>  
+**2008 – 2011**	Wilderness Tour Guide, <a href="https://www.taswalkingco.com.au/" target="_blank">Tasmanian Walking company</a>  
 
 
 ### Referees

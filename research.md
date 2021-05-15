@@ -19,6 +19,10 @@ Similar to the process of evolution at the level of organisms, proteins gain new
 **The evolution of an enzyme from a non-catalytic binding protein**  
 I have had the pleasure of working on a project studying the natural evolution of an enzyme, cyclohexadienyl dehydratase, from an ancestral protein that was non-catalytic. Earlier evolutionary biochemistry studies had highlighted the transition of one enzyme to another enzymatic activity using directed evolution and ancestral reconstruction approaches, but no one had really studied the mechanisms underlying the emergence of new enzyme activity in proteins folds that are non-catalytic.
 
+ 
+![Lab Bench, RSC](/assets/img/science/cdt/CDTFig1.webp){:class="img-responsive"}  
+&nbsp;
+
 In a study led by Ben Clifton, we showed that the enzyme cyclohexadienyl dehydratase evolved from an ancestral solute-binding protein, and that the new enzyme activity emerged and improved through distinct steps including (i) the introduction of key catalytic residues into the binding site of the ancestral protein, (ii) the reshaping of the active site cavity and development of hydrogen bonding networks around the core of the protein, and (iii) the accumulation of remote mutations that likely altered the conformational sampling of the enzyme (favouring the more closed, catalytically-relevant state). 
 
 <li>Clifton BE, <strong>Kaczmarski JA</strong>, Carr PD, Gerth ML, Tokuriki N, Jackson CJ. 2018. <a href="https://www.nature.com/articles/s41589-018-0043-2">Evolution of cyclohexadienyl dehydratase from an ancestral solute-binding protein.</a> <strong><em>Nat Chem Biol</em></strong> 14:542–547. </li>
