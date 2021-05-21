@@ -45,6 +45,7 @@ Science communication, teaching & student supervision, leadership.
 
 ### Research Presentations
 **Oral presentations**
+-	**2021** ARC Centre of Excellence in Synthetic Biology Seminar Series. _“Altered conformational sampling along an evolutionary trajectory increases the catalytic activity of a new enzyme”_
 -	**2021** Lorne Protein Conference. _“Altered conformational sampling along an evolutionary trajectory changes the catalytic activity of an enzyme”_
 -	**2017** Biomolecular Machines Conference, Banff, Canada. _“Conformational sampling is altered during the emergence and evolution of new enzyme activity”_. **Best Student Talk Award.**🏆
 -	**2017** Research School of Chemistry’s Celebration of HDR Chemistry. _“The molecular machines of life”_. **Best Presentation Award.**🏆
@@ -81,6 +82,7 @@ Science communication, teaching & student supervision, leadership.
 **2018-2020** Canberra Protein Group Committee Member (ASBMB)  
 **2019** <a href="http://www.shirtyscience.com/uploads/8/5/5/6/85566438/protein_orig.png" target="_blank"> "Shirty Science" Participant </a> (National Science Week, outreach program)  
 **2017-2018** Research School of Chemistry Higher Degree Research Student Representative Committee Member  
+**2016-2020** <a href="https://www.canberratimes.com.au/story/6045025/canberra-universities-show-off-at-open-days/" target="_blank">ANU Open Day Volunteer</a>  
 **2011-current** National Youth Science Forum Volunteer & Alumni Representative  
 
 {% include publications.html %}
