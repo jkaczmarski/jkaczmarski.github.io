@@ -11,7 +11,7 @@ subtitle: structural biologist | protein engineer | teacher & mentor
 
 **2020 - current**  
 **Postdoctoral Researcher, Research School of Chemistry**  
-
+The Australian National University, Canberra 
 
 **2016 - 2020**  
 **PhD, Research School of Chemistry**  
@@ -92,6 +92,9 @@ Science communication, teaching & student supervision, leadership.
 <br>  
 **2014 – 2016** Tour guide & bus driver, <a href="https://www.brunyislandsafaris.com/" target="_blank">Bruny Island Safaris</a>  
 **2008 – 2011**	Wilderness Tour Guide, <a href="https://www.taswalkingco.com.au/" target="_blank">Tasmanian Walking company</a>  
+
+### Personality
+<a href="https://www.16personalities.com/profiles/a665436cf13b2" target="_blank">Myers-Briggs Type</a>: INFP-T ("Turbulent Mediator"); Role: Diplomat; Strategy: Constant Improvement. 
 
 
 ### Referees

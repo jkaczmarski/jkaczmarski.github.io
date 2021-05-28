@@ -1,8 +1,9 @@
 ---
 layout: page
 title: 👋 Hello!
-subtitle: I'm Joe. 
+subtitle:  
 # cover-img: "/assets/img/ProteinEng.jpeg"
+---
 ---
 ![Protein Engineering](/assets/img/3dprintcrop_tiny.jpeg){:class="img-responsive"}  
 
