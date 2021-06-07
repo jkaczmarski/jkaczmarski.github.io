@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "\U0001F5A5 What's in my Dock?"
+title: 🖥 What's in my Dock?
 last_modified_at: 
 permalink: whats-in-my-dock
-description: Mac users - what applications do keep in your Dock? Here are the 8 essential
-  Apps that I keep in mine!
+description: Mac users - what applications do keep in your Dock? Here are the 8 essential Apps that I keep in mine! 
 image: 
 category: technology
 tags: Mac, computer, productivity, technology
@@ -12,12 +11,12 @@ published: true
 sitemap: true
 excerpt_separator: "<!--more-->"
 cover-img: 
-thumbnail-img: 
+thumbnail-img:
 share-img: 
 comments: true
 subscription-form: true
-date: 2021-06-02 07:53 +1000
 ---
+
 > "You can tell a lot about a person just by looking at what is in their Dock"   
   > ~ _Somebody, Sometime._
 <!--more-->
