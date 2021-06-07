@@ -88,8 +88,6 @@ Science communication, teaching & student supervision, leadership.
 {% include publications.html %}
 <br>
 ### Employment History (other)
-![Bruny Island Safaris](/assets/img/BrunyIslandSafaris.jpeg){:class="img-responsive", width="300"}
-<br>  
 **2014 – 2016** Tour guide & bus driver, <a href="https://www.brunyislandsafaris.com/" target="_blank">Bruny Island Safaris</a>  
 **2008 – 2011**	Wilderness Tour Guide, <a href="https://www.taswalkingco.com.au/" target="_blank">Tasmanian Walking company</a>  
 
