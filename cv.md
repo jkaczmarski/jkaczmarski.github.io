@@ -28,7 +28,7 @@ GPA of 6.906/7
   
 **High School**  
 The Friends’ School  
-Head Boy
+Head Boy  
 ATAR – 99.90  							
 
 ### Key Skills
