@@ -28,6 +28,7 @@ GPA of 6.906/7
   
 **High School**  
 The Friends’ School  
+Head Boy
 ATAR – 99.90  							
 
 ### Key Skills
@@ -51,6 +52,7 @@ Science communication, teaching & student supervision, leadership.
 -	**2017** Research School of Chemistry’s Celebration of HDR Chemistry. _“The molecular machines of life”_. **Best Presentation Award.**🏆
 
 **Poster presentations**
+- ARC Centre of Excellence in Synthetic Biology Workshop, June 2021. [_"Evolution-based approaches for protein engineers"_](/arc-coesb-workshop-2021) 
 -	Lorne Protein Conference, Feb 2019. _“Molecular basis for the regulation of bicarbonate transport by the cyanobacterial PII-like protein, SbtB”_. **Poster Prize.**🏆
 -	Lorne Protein Conference, Feb 2018. _“From binding protein to enzyme. Evolution of cyclohexadienyl dehydratase from an ancestral solute-binding protein”_. **Poster Prize.**🏆
 -	Melbourne Protein Group Symposium, 2017. _“Introducing catalysis into non-catalytic protein folds: how nature does it”_. 
