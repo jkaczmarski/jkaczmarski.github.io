@@ -38,6 +38,7 @@ h2 {
 }
 h3 {
   font-size: 1.5rem;
+  margin-top: 20px;
 }
 h4 {
   font-size: 1.125rem;
@@ -927,5 +928,5 @@ pre {
   font-size: 1rem;
 }
 ul li {
-    padding: 12px 0px;
+    padding: 5px 0px;
 }
