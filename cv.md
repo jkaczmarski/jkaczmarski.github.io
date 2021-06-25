@@ -64,7 +64,7 @@ Science communication, teaching & student supervision, leadership.
 
 ### Honours & Awards
 **2021** ARC Centre of Excellence in Synthetic Biology Pitch Competition Winner ($10,000 seed grant)  
-**2021** CSL Behring/Cicada Innovations Plasma Protein Purification Challenge 2nd Place ($15,000 seed grant + mentoring)
+**2021** CSL Behring/Cicada Innovations Plasma Protein Purification Challenge 2nd Place ($15,000 seed grant + mentoring)  
 **2019** Australian Society for Biochemistry and Molecular Biology Fellowship  
 **2016-2018** ‍Research School of Chemistry Postgraduate Teaching Fellowship  
 **2016-2020** Research School of Chemistry PhD Scholarship  
