@@ -1,27 +1,23 @@
 ---
 layout: post
-title: "\U0001F3C6 The best way to set life/career goals"
+title: "🏆 The best way to set life/career goals"
 subtitle: Write a Future-me CV
 last_modified_at: 
 permalink: future-me-cv
-description: A “Future-me CV” is a fun & effective way to set life & career goals.
-  A Future-me CV, is just like any other CV or Resumé, but includes all of the things
-  that you hope to achieve in the future! Writing one is the best way to keep motivated,
-  reach your goals and live your best life!
-image: "/assets/img/posts/future-me-cv/future-me-cv.jpg"
-category: productivity,
-tags: CV, resume, resumé, science, career, personal development, self-improvement,
-  goal-setting
+description: A “Future-me CV” is a fun & effective way to set life & career goals. A Future-me CV, is just like any other CV or Resumé, but includes all of the things that you hope to achieve in the future! Writing one is the best way to keep motivated, reach your goals and live your best life! 
+image: /assets/img/posts/future-me-cv/future-me-cv.jpg
+category: productivity, 
+tags: CV, resume, resumé, science, career, personal development, self-improvement, goal-setting
 published: true
 sitemap: true
 excerpt_separator: "<!--more-->"
-cover-img: "/assets/img/posts/future-me-cv/future-me-cv.jpg"
-thumbnail-img: "/assets/img/posts/future-me-cv/future-me-cv.jpg"
-share-img: "/assets/img/posts/future-me-cv/future-me-cv.jpg"
+cover-img: /assets/img/posts/future-me-cv/future-me-cv.jpg
+thumbnail-img: /assets/img/posts/future-me-cv/future-me-cv.jpg
+share-img: /assets/img/posts/future-me-cv/future-me-cv.jpg
 comments: true
 subscription-form: true
-date: 2021-06-19 21:31 +1000
 ---
+
 ## **What is a "Future-me CV?"**
 
 A "Future-me CV" looks pretty similar to your current CV, but also includes all the things that you hope you will achieve (in work and life) by some set time in the future. I.e. What would you hope your CV looks like in 2 years? 5 years? 10 years? 

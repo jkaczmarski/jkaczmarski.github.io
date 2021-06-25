@@ -19,11 +19,6 @@ subscription-form: true
 
 _**I've put together a list of my favourite (non-science) applications that I think everyone should have installed on their computers.**_ 
 
-For each type of application, I have listed a few of my favourite options - I would suggest downloading each of them and trying them out to see which one suits you. It often comes down to personal preference (and whether you are happy paying for them or not). Many of the applications are free, or at least come with a free trial period. 
-
-I have focused on Mac apps, but many of these will also be available on other operating systems (or have equivalently awesome options). 
-
-
 ## 💬 KEEPING CONNECTED
 ---
 ### 📨 An email application  
@@ -40,10 +35,6 @@ One other option is to avoid email apps altogether and instead just check your e
 Being able to keep in contact with collaborators, friends and family is important to me, so I always keep these installed on my mac. 
 - Zoom. I use this mainly for work-related audio and video calls/meetings. 
 - Slack. I use this mainly for work related chat. 
-- Messages.app. I hate using my phone, so try and send most of my messages from my laptop. 
-- WhatsApp. Mainly for keeping up to date with family. Again, I prefer to use my computer rather than my phone. 
-- Messenger. Used mainly for messages to friends. 
-- Skype. I always have a bit of money on my Skype account for making international landline phone calls. I am sure there is probably better options for this, but this is just what I default back to.   
 - Clocker. For working out what's the best time to call people across different time zones. 
   
 	   
@@ -71,19 +62,8 @@ You may want to consider or explore other options for more speciliased writing t
 ### ✍️ Note-taking 
 **My current choice:** Roam Research
 
-Obsidian
-Roam Research
-OneNote
-Notion
-Evernote
-Word
-Google 
-
 ### 📝 A decent text editor (or three)
 **My current choice:** Sublime Text + Atom + Emacs 
-
-TextEdit.app
-
 
 ### 📄 A reliable reference manager (or three)
 **My current choice:** Paperpile + Zotero + Mendeley
@@ -102,11 +82,10 @@ Lately, I haven't bothered with downloading PDFs or copies of papers to my compu
 - GIMP
 - InkScape
 
-
 ## TIME MANAGEMENT & PRODUCTIVITY
 ---
 ### 🗓 For organising your calendar
-**My current choice:** Fantastical
+**My current choice:** Fantastical/Outlook
   
 Calendar 
 Outlook

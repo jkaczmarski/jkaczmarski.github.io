@@ -17,27 +17,37 @@ comments: true
 subscription-form: true
 ---
 
-Want to make your own website just like this one? In this post, I take you through the steps I used to create this site. I am grateful to these pages, which helped me a lot during the set up of my page. 
-			- https://github.com/daattali/beautiful-jekyll
-		  - https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll
+_**Want to make your own website just like this one? In this post, I take you through the steps I used to create this site so you can make one too!**_
 
-#Ok, let's get started.. 
+I am very grateful to these pages, which helped me a lot during the set up of my site. You should check them out too!  
+- <a href="https://github.com/daattali/beautiful-jekyll" target="_blank">Beautiful Jekyll on Github</a>  
+- <a href="https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll" target="_blank">Maxime Vaillancourt's great post on setting up a digital garden with jekyll</a>. (If you're into digital gardens, you should definitely check out Maxime's digital garden template.)
 
-## Install 
-- Ruby
-- RubyGems
-- Git
-- A decent text editor (I use Atom)
+# Ok, let's get started.. 
+<br>
+## 1. Install Dependencies
+
+First, you'll need a few things to get started. Go ahead and install the following:
+- <a href="https://www.ruby-lang.org/en/" target="_blank">Ruby</a>  
+- <a href="https://rubygems.org/" target="_blank">Ruby Gems</a>  
+- <a href="https://git-scm.com/downloads" target="_blank">Git</a>  
+
+(while you're at it, you may want to install a decent text editor - my current choice is <a href="https://atom.io/" target="_blank">Atom</a>)
 
 ## Create your own accounts on: 
-- GitHub
-- Netlify
+- <a href="https://github.com/join" target="_blank">GitHub</a> 
+- <a href="https://app.netlify.com/signup" target="_blank">Netlify</a> 
 
 ## Create a fork of the template (beautiful-jekyll)
-- Go to https://github.com/daattali/beautiful-jekyll and create a fork (like a copy) to your own GitHub account: 
-[Fork Image]
 
-- Now, go to your GitHub page for your new repository (fork) and click on "Clone or download" button and copy the URL. 
+The theme that I am using as a base for this site is called "Beautiful-Jekyll". You can download it from GitHub:  
+- Go to <a href="https://github.com/daattali/beautiful-jekyll" target="_blank">Beautiful-Jekyll on Github</a> and create a fork to copy it into your own GitHub account: 
+![](/_drafts/assets/how-to-make-your-own-personal-website-for-free-like-this-one-da7de7f4.png)
+
+- Now, go to your GitHub page for your new repository (fork) and click on the "Code" button and copy the URL:
+![](assets/how-to-make-your-own-personal-website-for-free-like-this-one-0a8f82a1.png)  
+	 
+
 
 ## Make a local clone of your repository
 We want to have a copy all the files for your website kept on your local computer. To do this, open a new Terminal window, move to the folder where you want to keep your website folder: e.g. `cd ~/` if you want to keep them in your home folder (Mac/Linux). 

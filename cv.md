@@ -58,17 +58,17 @@ Science communication, teaching & student supervision, leadership.
 -	Melbourne Protein Group Symposium, 2017. _“Introducing catalysis into non-catalytic protein folds: how nature does it”_. 
 -	Synthetic Biology: Evolution, Engineering & Design Conference, Vancouver, Canada. June 2017. _“From binding protein to enzyme. Evolution of cyclohexadienyl dehydratase from an ancestral solute-binding protein”_. 
 -	Gordon Research Conference: Molecular Mechanisms in Evolution. June 2017. _“From binding protein to enzyme. Evolution of cyclohexadienyl dehydratase from an ancestral solute-binding protein”_.
--	Lorne Protein Conference, Feb 2017. _“From binding protein to enzyme: Investigating the emergence of cyclohexadienyl dehydratase activity from non-catalytic ancestral proteins”_. 
+-	Lorne Protein Conference, Feb 2017. _“From binding protein to enzyme: Investigating the emergence of cyclohexadienyl dehydratase activity from non-catalytic ancestral proteins”_. asdfasdas
 -	ComBio Conference, Brisbane, October 2016. _“From binding protein to enzyme: Investigating the emergence of cyclohexadienyl dehydratase activity from non-catalytic ancestral proteins.”_ **ASBMB Poster Prize.**🏆
 -	Australian Society for Biophysics Membrane Transport Satellite Meeting, Dec 2012. _“Investigating the interactions of sontochin and analogues with the Plasmodium falciparum Chloroquine Resistance Transporter (PfCRT).”_ 
 
-
-
 ### Honours & Awards
+**2021** ARC Centre of Excellence in Synthetic Biology Pitch Competition Winner ($10,000 seed grant)  
+**2021** CSL Behring/Cicada Innovations Plasma Protein Purification Challenge 2nd Place ($15,000 seed grant + mentoring)
 **2019** Australian Society for Biochemistry and Molecular Biology Fellowship  
-**2016-2018** Research School of Chemistry Postgraduate Teaching Fellowship  
+**2016-2018** ‍Research School of Chemistry Postgraduate Teaching Fellowship  
 **2016-2020** Research School of Chemistry PhD Scholarship  
-**2016-2020** Australian Government Research Training Program Stipend Scholarship  
+**2016-2020** ‍Australian Government Research Training Program Stipend Scholarship  
 **2017** Vice Chancellor’s Travel Grant  
 **2014** University Medal in Chemistry	  
 **2011-2014** National Undergraduate Scholarship  
@@ -78,6 +78,7 @@ Science communication, teaching & student supervision, leadership.
 **2019-current**  Direct supervision of 9 Undergraduate & Honours Project Students  
 **2013-2020**     Tutor/Lab Demonstrator/Exam marker, Chemistry (1st year course), Chemical Biology (2nd year course), Protein Engineering (2nd year and 3rd year courses).  
 **2017-2018** Lecturer, Chemistry Bridging Course, ANU  
+
 ### Leadership, Service & Community Involvement
 **2019-current** ASBMB Australian Biochemist Editorial Board Member  
 **2020** Meristem Volunteer  
