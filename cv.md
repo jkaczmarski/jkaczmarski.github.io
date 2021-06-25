@@ -52,15 +52,15 @@ Science communication, teaching & student supervision, leadership.
 -	**2017** Research School of Chemistry’s Celebration of HDR Chemistry. _“The molecular machines of life”_. **Best Presentation Award.**🏆
 
 **Poster presentations**
--**2021** ARC Centre of Excellence in Synthetic Biology Workshop. [_"Evolution-based approaches for protein engineers"_](/arc-coesb-workshop-2021) 
--**2019**	Lorne Protein Conference. _“Molecular basis for the regulation of bicarbonate transport by the cyanobacterial PII-like protein, SbtB”_. **Poster Prize.**🏆
--**2018**	Lorne Protein Conference. _“From binding protein to enzyme. Evolution of cyclohexadienyl dehydratase from an ancestral solute-binding protein”_. **Poster Prize.**🏆
--**2017**	Melbourne Protein Group Symposium. _“Introducing catalysis into non-catalytic protein folds: how nature does it”_. 
--**2017**	Synthetic Biology: Evolution, Engineering & Design Conference, Vancouver, Canada. _“From binding protein to enzyme. Evolution of cyclohexadienyl dehydratase from an ancestral solute-binding protein”_. 
--**2017**	Gordon Research Conference: Molecular Mechanisms in Evolution. _“From binding protein to enzyme. Evolution of cyclohexadienyl dehydratase from an ancestral solute-binding protein”_.
--**2017**	Lorne Protein Conference. _“From binding protein to enzyme: Investigating the emergence of cyclohexadienyl dehydratase activity from non-catalytic ancestral proteins”_. asdfasdas
--**2016**	ComBio Conference, Brisbane. _“From binding protein to enzyme: Investigating the emergence of cyclohexadienyl dehydratase activity from non-catalytic ancestral proteins.”_ **ASBMB Poster Prize.**🏆
--**2012**	Australian Society for Biophysics Membrane Transport Satellite Meeting. _“Investigating the interactions of sontochin and analogues with the Plasmodium falciparum Chloroquine Resistance Transporter (PfCRT).”_ 
+- **2021** ARC Centre of Excellence in Synthetic Biology Workshop. [_"Evolution-based approaches for protein engineers"_](/arc-coesb-workshop-2021) 
+- **2019**	Lorne Protein Conference. _“Molecular basis for the regulation of bicarbonate transport by the cyanobacterial PII-like protein, SbtB”_. **Poster Prize.**🏆
+- **2018**	Lorne Protein Conference. _“From binding protein to enzyme. Evolution of cyclohexadienyl dehydratase from an ancestral solute-binding protein”_. **Poster Prize.**🏆
+- **2017**	Melbourne Protein Group Symposium. _“Introducing catalysis into non-catalytic protein folds: how nature does it”_. 
+- **2017**	Synthetic Biology: Evolution, Engineering & Design Conference, Vancouver, Canada. _“From binding protein to enzyme. Evolution of cyclohexadienyl dehydratase from an ancestral solute-binding protein”_. 
+- **2017**	Gordon Research Conference: Molecular Mechanisms in Evolution. _“From binding protein to enzyme. Evolution of cyclohexadienyl dehydratase from an ancestral solute-binding protein”_.
+- **2017**	Lorne Protein Conference. _“From binding protein to enzyme: Investigating the emergence of cyclohexadienyl dehydratase activity from non-catalytic ancestral proteins”_. asdfasdas
+- **2016**	ComBio Conference, Brisbane. _“From binding protein to enzyme: Investigating the emergence of cyclohexadienyl dehydratase activity from non-catalytic ancestral proteins.”_ **ASBMB Poster Prize.**🏆
+- **2012**	Australian Society for Biophysics Membrane Transport Satellite Meeting. _“Investigating the interactions of sontochin and analogues with the Plasmodium falciparum Chloroquine Resistance Transporter (PfCRT).”_ 
 
 ### Honours & Awards
 **2021** ARC Centre of Excellence in Synthetic Biology Pitch Competition Winner ($10,000 seed grant)  
