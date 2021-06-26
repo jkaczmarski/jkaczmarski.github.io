@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 🖥 Essential (non-science) Apps for scientists
-subtitle: (MacOS list)
+title: "\U0001F5A5 Essential (non-science) Apps for scientists"
+subtitle: "(MacOS list)"
 last_modified_at: 
 permalink: best-mac-apps
-description: A comprehensive list of my favourite, must-have applications for MacOS. Focused on (non-scientific) apps for scientists, but will be relevant to anyone looking to set up a new Mac with killer apps. 
+description: A comprehensive list of my favourite, must-have applications for MacOS.Focused on (non-scientific) apps for scientists, but will be relevant to anyone looking to set up a new Mac with killer apps.
 image: assets/the-best-non-science-mac-apps-for-scientists-20e444be.jpeg
 category: computer
-tags: productivity, mac, computer, science, 
+tags: productivity, mac, computer, science,
 published: true
 sitemap: true
-excerpt_separator: "<!--more-->"  
+excerpt_separator: "<!--more-->"
 cover-img: assets/the-best-non-science-mac-apps-for-scientists-20e444be.jpeg
 thumbnail-img: assets/the-best-non-science-mac-apps-for-scientists-20e444be.jpeg
 share-img: assets/the-best-non-science-mac-apps-for-scientists-20e444be.jpeg
 comments: true
 subscription-form: true
+date: 2021-06-26 16:29 +1000
 ---
-
 _**I've put together a comprehensive list of my favourite (non-science) applications that I think everyone (especially those working in science) should be using.**_ 
 <!--more-->
 
