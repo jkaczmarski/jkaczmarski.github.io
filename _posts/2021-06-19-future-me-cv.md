@@ -11,8 +11,8 @@ tags: CV, resume, resumé, science, career, personal development, self-improveme
 published: true
 sitemap: true
 excerpt_separator: "<!--more-->"
-cover-img: /assets/img/posts/future-me-cv/future-me-cv.jpg
-thumbnail-img: /assets/img/posts/future-me-cv/future-me-cv.jpg
+# cover-img: /assets/img/posts/future-me-cv/future-me-cv.jpg
+#thumbnail-img: /assets/img/posts/future-me-cv/future-me-cv.jpg
 share-img: /assets/img/posts/future-me-cv/future-me-cv.jpg
 comments: true
 subscription-form: true

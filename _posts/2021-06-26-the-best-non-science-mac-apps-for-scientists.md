@@ -11,8 +11,8 @@ tags: productivity, mac, computer, science,
 published: true
 sitemap: true
 excerpt_separator: "<!--more-->"
-cover-img: assets/the-best-non-science-mac-apps-for-scientists-20e444be.jpeg
-thumbnail-img: assets/the-best-non-science-mac-apps-for-scientists-20e444be.jpeg
+# cover-img: assets/the-best-non-science-mac-apps-for-scientists-20e444be.jpeg
+# thumbnail-img: assets/the-best-non-science-mac-apps-for-scientists-20e444be.jpeg
 share-img: assets/the-best-non-science-mac-apps-for-scientists-20e444be.jpeg
 comments: true
 subscription-form: true

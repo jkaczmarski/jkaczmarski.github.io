@@ -1,15 +1,18 @@
 ---
 layout: page
-# title: Research
+title: Science
+subtitle: Protein Engineering & Design | Protein Evolution | Protein Dynamics 
 ---
 
-### 🚧 page under construction 🚧
+   
+Ancestral Protein Design **\|** Consensus Design **\|** Computational Protein Design   
+X-ray crystallography **\|** Structural Modelling **\|** Molecular Dynamics Simulations **\|** Docking   
+Isothermal titration calorimetry **\|** Surface Plasmon Reasonance **\|** Differential Scanning Fluorimetry **\|** Enzyme Kinetics   
 
-I am using a combination of structural (e.g.&nbsp;X-ray crystallography), biophysical (e.g.&nbsp;isothermal titration calorimetry), computational (e.g.&nbsp;molecular dynamics simulations and computational docking) and evolution-based (e.g.&nbsp;consensus design & ancestral sequence reconstruction) approaches to understand and engineer a range of molecular interactions. This page provides an overview of some of my current research interests and related publications. 
 
-I am working under the amazing guidance of [Professor Colin Jackson at the Australian National University](https://jacksonlab.wordpress.com/), and have the pleasure of working with some amazing collaborators. 
+
+
 &nbsp;
-<br>  
 ![Lab Bench, RSC](/assets/img/lab_stock/lab_bench_pipette.jpg){:class="img-responsive"}  
 &nbsp;
 #### Protein Evolution

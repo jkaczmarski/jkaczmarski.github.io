@@ -41,7 +41,7 @@ round-avatar: true
 social-network-links:
   email: "kaczmarski.joe@gmail.com"
 #  facebook: deanattali
-#  github: jkaczmarski
+  github: jkaczmarski
   twitter: kaczmarski_joe
   rss: false
 #  reddit: yourname
@@ -71,6 +71,7 @@ share-links-active:
   linkedin: true
   email: true
   vk: false
+  github: true 
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer

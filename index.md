@@ -4,7 +4,7 @@ title: Dr Joe Alexander Kaczmarski
 subtitle: structural biologist | protein engineer | teacher & mentor
 #cover-img: "/assets/img/ProteinEng.jpeg"
 ---
----
+--- 
 ![Protein Engineering](/assets/img/3dprintcrop_tiny.jpeg){:class="img-responsive"}  
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">

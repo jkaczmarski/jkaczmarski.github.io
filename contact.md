@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Joe
+sub-title: Contact Joe
 ---
 
  <p style="text-align: center;">Reach out by email or social media:</p>
@@ -8,8 +8,6 @@ title: Contact Joe
 
 <p style="text-align: center;">or send me a message using <a href = "https://us1.list-manage.com/contact-form?u=6fe0e6e4fa54216a2c3ae1c7d&form_id=11d5ee4b5e84bc95ecd8f2ceb3acebf1">this form</a>.</p>
   
-&nbsp;
-## ☕️ Want to meet for coffee?
 I'm currently working at the **Research School of Biology** at **The Australian National University** in Canberra, ACT, Australia. If you're in the area, let me know & let's catch up! 
   
 <p style="text-align: center;">
