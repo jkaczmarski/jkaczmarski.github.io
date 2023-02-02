@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 👋 Hello!
+#title: 👋 Hello!
 subtitle:  
-cover-img: "/assets/img/ProteinEng.jpeg"
+#cover-img: "/assets/img/ProteinEng.jpeg"
 ---
 ---
 [//]: # ![Protein Engineering](/assets/img/3dprintcrop_tiny.jpeg){:class="img-responsive"}  
@@ -16,6 +16,7 @@ If you are looking for a new T-shirt or a gift for your science-y friends, explo
 You can also check out my other blog, <a href="https://tasmaniantraveller.com/" target="_blank"><i>Tasmanian Traveller</i></a> which has some old articles about my adventures in Tasmania and abroad. 
 
 I'd love to hear from you - you can [contact me here](https://us1.list-manage.com/contact-form?u=6fe0e6e4fa54216a2c3ae1c7d&form_id=11d5ee4b5e84bc95ecd8f2ceb3acebf1).
+
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
