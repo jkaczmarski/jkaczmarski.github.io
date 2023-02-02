@@ -9,7 +9,11 @@ subtitle: structural biologist | protein engineer | teacher & mentor
 
 ### Qualifications
 
-**2020 - current**  
+**2021 -**  
+**Lecturer, ARC Centre of Excellence in Synthetic Biology, Research School of Biology**  
+The Australian National University, Canberra 
+
+**2020 - 2021**  
 **Postdoctoral Researcher, Research School of Chemistry**  
 The Australian National University, Canberra 
 
@@ -36,7 +40,7 @@ ATAR – 99.90
 X-ray crystallography, protein expression, protein purification, isothermal titration calorimetry, cloning (traditional, Gibson Assembly), in-cell assay development, circular dichroism, enzyme kinetics, differential scanning fluorimetry, surface-plasmon resonance.  
 
 **Computer-based (science)**
-Molecular dynamics (Desmond, Gromacs, NAMD), molecular docking (Glide, AutoDock), ancestral protein reconstruction, phylogenetic analysis, homology modelling  
+Protein design & stabilisation, molecular dynamics (Desmond, Gromacs, NAMD), molecular docking (Glide, AutoDock), ancestral protein reconstruction, phylogenetic analysis, homology modelling and AlphaFold modelling. 
    
 **Computer-based (other)**
 Microsoft Office, R, Python, photo & video editing, website design & management, social media management, Adobe Creative Suite.   
@@ -62,9 +66,11 @@ Science communication, teaching & student supervision, leadership.
 - **2016**	ComBio Conference, Brisbane. _“From binding protein to enzyme: Investigating the emergence of cyclohexadienyl dehydratase activity from non-catalytic ancestral proteins.”_ **ASBMB Poster Prize.**🏆
 - **2012**	Australian Society for Biophysics Membrane Transport Satellite Meeting. _“Investigating the interactions of sontochin and analogues with the Plasmodium falciparum Chloroquine Resistance Transporter (PfCRT).”_ 
 
-### Honours & Awards
+### Honours, Awards & Funding
+**2022** EMCR Seed Funding Scheme, Australian Research Council Centre of Excellence in Synthetic Biology & Research School of Biology: <i>“Establishing a Vibrio natriegens-based expression system for the rapid production and purification of secreted recombinant protein targets from growth media.”</i>   
 **2021** ARC Centre of Excellence in Synthetic Biology Pitch Competition Winner ($10,000 seed grant)  
 **2021** CSL Behring/Cicada Innovations Plasma Protein Purification Challenge 2nd Place ($15,000 seed grant + mentoring)  
+**2021** Nominated by Australian Academy of Science to attend the JSPS 13th HOPE Meeting with Nobel Laureates   
 **2019** Australian Society for Biochemistry and Molecular Biology Fellowship  
 **2016-2018** ‍Research School of Chemistry Postgraduate Teaching Fellowship  
 **2016-2020** Research School of Chemistry PhD Scholarship  
@@ -93,13 +99,6 @@ Science communication, teaching & student supervision, leadership.
 ### Employment History (other)
 **2014 – 2016** Tour guide & bus driver, <a href="https://www.brunyislandsafaris.com/" target="_blank">Bruny Island Safaris</a>  
 **2008 – 2011**	Wilderness Tour Guide, <a href="https://www.taswalkingco.com.au/" target="_blank">Tasmanian Walking company</a>  
-
-### Other
-**Myers-Briggs Personality Type**  
-_**INFP-T**_ ("Turbulent Mediator")   
-_**Role:**_ Diplomat  
-_**Strategy:**_ Constant improvement  
-<a href="https://www.16personalities.com/profiles/a665436cf13b2" target="_blank">View my Myers-Briggs personality test results here</a>  
 
 ### Referees
 Referee contact details and/or reference letters are available upon request. 
