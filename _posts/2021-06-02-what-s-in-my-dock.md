@@ -15,6 +15,7 @@ thumbnail-img:
 share-img: 
 comments: true
 subscription-form: true
+full-width: true
 ---
 
 > "You can tell a lot about a person just by looking at what is in their Dock"   
