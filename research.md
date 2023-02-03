@@ -1,16 +1,13 @@
 ---
 layout: page
-title: Science
-subtitle: Protein Engineering & Design | Protein Evolution | Protein Dynamics 
+title: Evolution | Engineering | Design
+# subtitle: proteins | enzymes
 ---
-
-   
-Ancestral Protein Design **\|** Consensus Design **\|** Computational Protein Design   
-X-ray crystallography **\|** Structural Modelling **\|** Molecular Dynamics Simulations **\|** Docking   
-Isothermal titration calorimetry **\|** Surface Plasmon Reasonance **\|** Differential Scanning Fluorimetry **\|** Enzyme Kinetics   
-
-
-
+<p style="text-align: center;">   
+Ancestral Protein Design <b>|</b> Consensus Design <b>|</b> Computational Protein Design   <br>
+X-ray crystallography <b>|</b> Structural Modelling <b>|</b> Molecular Dynamics Simulations <br>
+ITC <b>|</b> SPR <b>|</b> DSF 
+</p>
 
 &nbsp;
 ![Lab Bench, RSC](/assets/img/lab_stock/lab_bench_pipette.jpg){:class="img-responsive"}  
@@ -34,7 +31,11 @@ In a follow up study, we collaborated with Gottfried Otting (ANU) and Daniella G
 
 <li><strong>Kaczmarski JA</strong>, Mahawaththa MC, Feintuch A, Clifton BE, Adams LA, Goldfarb D, Otting G, Jackson CJ. 2020. <a href="https://doi.org/10.1038/s41467-020-19695-9">Altered conformational sampling along an evolutionary trajectory changes the catalytic activity of an enzyme.</a> <strong><em>Nature Communications</em></strong> 11:5945</li>
 
-Our on-going work on this project is exploring, in more detail, the role that oligomerisation has had during the evolution of this enzyme (the ancestors are monomers, while the modern day enzyme is a trimer). 
+In the third paper in this series, we investigated the role that oligomerisation and a C-terminal extension had in the optimisation CDT activity (modern CDT is a trimer, while AncCDT-5 and other proteins are monomers). We introduced subtitutions found in the CDT trimer-forming interface, and reintroduced these into AncCDT-5. As we introduced these substitutinos, we observed the transition from monomer to trimer. The initial formation of the trimeric state was associated with a decrease in the affinity of the enzyme for the substrate. Finally, we showed that removal of a C-terminal extension found in modern CDT yielded a protein that had a catalytic turn-over similar to AncCDT-5, suggesting that this region played a role in further tuning catalysis. Molecular dynamics simulations showed how the formation of the trimer, and the C-terminal extension, restricted open-closed motions in the protein to minimise sampling of unproductive open states. 
+
+<li>Nicholas J. East, Ben E. Clifton, Colin J. Jackson, <strong>Joe A Kaczmarski</strong>. 2022. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/pro.4510">The role of oligomerization in the optimization of cyclohexadienyl dehydratase conformational dynamics and catalytic activity. </a> <strong><em>Protein Science</em></strong> 16 Nov. https://doi.org/10.1002/pro.4510</li>
+
+
 
 &nbsp;
 #### Protein Dynamics
