@@ -3,6 +3,12 @@ layout: page
 title: Evolution | Engineering | Design
 # subtitle: proteins | enzymes
 ---
+<center>
+    <video width="75%" autoplay muted loop>
+        <source src="/assets/morph.m4v" type="video/mp4">
+    </video>
+</center>
+
 <p style="text-align: center;">   
 Ancestral Protein Design <b>|</b> Consensus Design <b>|</b> Computational Protein Design   <br>
 X-ray crystallography <b>|</b> Structural Modelling <b>|</b> Molecular Dynamics Simulations <br>
@@ -10,8 +16,7 @@ ITC <b>|</b> SPR <b>|</b> DSF
 </p>
 
 &nbsp;
-![Lab Bench, RSC](/assets/img/lab_stock/lab_bench_pipette.jpg){:class="img-responsive"}  
-&nbsp;
+
 #### Protein Evolution
 ---
 Similar to the process of evolution at the level of organisms, proteins gain new functions and characteristics through gene-duplication events, the accumulation of mutations (genetic diversification) and natural selection.  Understanding the fundamental mechanisms through which proteins gain new functions can provide insight into the factors that drive functional diversification of protein families, but also can guide protein engineering efforts by highlighting the factors that drive or hinder the emergence and improvement of new functions and/or properties. 
@@ -76,5 +81,7 @@ In my first publication, I worked under the supervision of Ben Corry (ANU) to st
 
 - **Kaczmarski JA**, Hong NS, Mukherjee B, Wey LT, Rourke L, Förster B, Peat TS, Price GD, Jackson CJ. 2019. [Structural basis for the allosteric regulation of the SbtA bicarbonate transporter by the PII-like protein, SbtB, from _Cyanobium_ sp. PCC7001.](https://pubs.acs.org/doi/abs/10.1021/acs.biochem.9b00880) **_Biochemistry_** 58:5030–5039.  
 
-
 ----
+&nbsp;
+![Lab Bench, RSC](/assets/img/lab_stock/lab_bench_pipette.jpg){:class="img-responsive"}  
+&nbsp;
