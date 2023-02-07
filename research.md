@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Evolution | Engineering | Design
-# subtitle: proteins | enzymes
+title: My Research
+subtitle: Evolution | Engineering | Design
 ---
 <center>
     <video width="75%" autoplay muted loop>
