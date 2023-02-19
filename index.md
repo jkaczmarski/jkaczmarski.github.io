@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dr Joe Alexander Kaczmarski
-subtitle: structural biologist | protein engineer | teacher & mentor
+subtitle: structural biologist | protein engineer | lecturer & mentor
 #cover-img: "/assets/img/ProteinEng.jpeg"
 full-width: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dr Joe Alexander Kaczmarski
-subtitle: structural biologist | protein engineer | teacher & mentor
+subtitle: structural biologist | protein engineer | lecturer & mentor
 
 ---
 {% include social-networks-links.html %}
@@ -27,13 +27,7 @@ Supervisor: Professor Colin Jackson
 **Bachelor of Philosophy (First Class Honours in Protein Chemistry)**  
 The Australian National University, Canberra  
 A competitive, research-focused science degree  
-🏅University Medal in Chemistry  
-GPA of 6.906/7  
-  
-**High School**  
-The Friends’ School  
-Head Boy  
-ATAR – 99.90  							
+🏅University Medal in Chemistry  						
 
 ### Key Skills
 **Laboratory-based**
