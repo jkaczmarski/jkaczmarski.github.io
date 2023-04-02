@@ -10,11 +10,22 @@ subtitle: Evolution | Engineering | Design
 </center>
 
 <p style="text-align: center;">   
-Ancestral Protein Design <b>|</b> Consensus Design <b>|</b> Computational Protein Design   <br>
+De novo Protein Design <b>|</b> Ancestral Protein Design <b>|</b> Consensus Design <b>|</b> Computational Protein Design   <br>
 X-ray crystallography <b>|</b> Structural Modelling <b>|</b> Molecular Dynamics Simulations <br>
 ITC <b>|</b> SPR <b>|</b> DSF 
 </p>
 
+&nbsp;
+
+#### De novo Protein Design and Protein Optimisation
+---
+
+###### Protein hallucination & diffusion
+
+We are using modern protein backbone generation tools (including RFDiffusion, RFDesign & AFDesign) for the generation of new-to-nature proteins. This include protein folds never observed in nature, and de novo binder proteins to a range of medically- and biotechnologically-relevant proteins. 
+
+###### Protein optimisation & stabilisation
+We apply a range of tools for the generation of stablised protein variants that express well in common expression hosts while retaining target functions. We focus on valuable proteins for biotechnology, medicine and synthetic biology. 
 &nbsp;
 
 #### Protein Evolution
@@ -70,7 +81,13 @@ In my first publication, I worked under the supervision of Ben Corry (ANU) to st
 <li>Chatterjee D, Lewis FJ, Sutton HJ, <strong>Kaczmarski JA</strong>, Gao X, Cai Y, McNamara HA, Jackson CJ, Cockburn IA. 2021. <a href="https://doi.org/10.1016/j.celrep.2021.108996">Avid binding by B cells to the <em>Plasmodium</em> circumsporozoite protein repeat suppresses responses to protective subdominant epitopes.</a> <strong><em>Cell Reports</em></strong> 35(2):108996</li>
 
 &nbsp;
-#### Protein Engineering
+####  <i>Vibrio natriegens</i> as an alternate expression host
+---
+We are currently leveraging the rapid doubling time and high protein production capabilities of <i>Vibrio natriegens</i> cells as an alternate protein expression host. In addition, we are exploring ways to genetically manipulate <i>Vibrio natriegens</i> to enhance the production of valuable compounds and proteins. 
+
+
+&nbsp;
+#### Other Protein Engineering Projects
 ---
 
 ###### Protein-based Sensor Design
