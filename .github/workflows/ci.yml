@@ -7,26 +7,27 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Debug Docker Environment
-        run: |
-          echo "Docker version:"
-          docker --version
-          echo "Listing Docker containers:"
-          docker ps -a
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.7.1'  # Ensuring the Ruby version matches the one being installed
+          bundler-cache: true
+
+      - name: Update RubyGems
+        run: gem update --system
       
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install
+
       - name: Build the site in the jekyll/builder container
         run: |
           export JEKYLL_VERSION=3.8
           docker run \
           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
           -e PAGES_REPO_NWO=${{ github.repository }} \
-          jekyll/builder:$JEKYLL_VERSION /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future 2>&1 | tee build.log || { echo 'Jekyll build failed'; cat build.log; exit 1; }"
-      
-      - name: Capture build logs
-        if: failure()
-        run: |
-          echo "Capturing logs for debugging"
-          cat build.log || echo "No logs found"
+          jekyll/builder:$JEKYLL_VERSION /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
       - name: Check Build Output
         run: |
