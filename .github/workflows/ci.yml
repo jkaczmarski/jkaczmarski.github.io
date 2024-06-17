@@ -10,12 +10,12 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '2.7.1'  # Ensuring the Ruby version matches the one being installed
+          ruby-version: '2.7.1'
           bundler-cache: true
 
       - name: Update RubyGems
         run: gem update --system
-      
+
       - name: Install dependencies
         run: |
           gem install bundler
