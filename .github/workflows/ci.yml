@@ -14,6 +14,24 @@
 #           -e PAGES_REPO_NWO=${{ github.repository }} \
 #           jekyll/builder:$JEKYLL_VERSION /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"name: Beautiful Jekyll CI
 
+# name: Beautiful Jekyll CI
+# on: [push, pull_request]
+# jobs:
+#   build:
+#     name: Build Jekyll
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v4
+#       - uses: ruby/setup-ruby@v1
+#         with:
+#           ruby-version: '3.3'
+#       - name: Install dependencies
+#         run: bundle install && bundle exec appraisal install
+#       - name: Build site
+#         run: bundle exec appraisal jekyll build --future
+
+
+
 name: Beautiful Jekyll CI
 on: [push, pull_request]
 jobs:
@@ -22,10 +40,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: ruby/setup-ruby@v1
+      
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
+          bundler-cache: true
+      
       - name: Install dependencies
-        run: bundle install && bundle exec appraisal install
+        run: |
+          gem install bundler
+          bundle install
+          gem install appraisal
+          bundle exec appraisal install
+      
       - name: Build site
         run: bundle exec appraisal jekyll build --future
