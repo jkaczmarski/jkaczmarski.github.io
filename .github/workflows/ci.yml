@@ -1,64 +1,3 @@
-# name: Beautiful Jekyll CI
-# on: [push, pull_request]
-# jobs:
-#   build:
-#     name: Build Jekyll
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@v4
-#       - name: Build the site in the jekyll/builder container
-#         run: |
-#           export JEKYLL_VERSION=3.8
-#           docker run \
-#           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-#           -e PAGES_REPO_NWO=${{ github.repository }} \
-#           jekyll/builder:$JEKYLL_VERSION /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"name: Beautiful Jekyll CI
-
-# # # name: Beautiful Jekyll CI
-# # # on: [push, pull_request]
-# # # jobs:
-# # #   build:
-# # #     name: Build Jekyll
-# # #     runs-on: ubuntu-latest
-# # #     steps:
-# # #       - uses: actions/checkout@v4
-# # #       - uses: ruby/setup-ruby@v1
-# # #         with:
-# # #           ruby-version: '3.3'
-# # #       - name: Install dependencies
-# # #         run: bundle install && bundle exec appraisal install
-# # #       - name: Build site
-# # #         run: bundle exec appraisal jekyll build --future
-
-
-
-# # name: Beautiful Jekyll CI
-# # on: [push, pull_request]
-# # jobs:
-# #   build:
-# #     name: Build Jekyll
-# #     runs-on: ubuntu-latest
-# #     steps:
-# #       - uses: actions/checkout@v4
-      
-# #       - name: Set up Ruby
-# #         uses: ruby/setup-ruby@v1
-# #         with:
-# #           ruby-version: '3.3'
-# #           bundler-cache: true
-      
-# #       - name: Install dependencies
-# #         run: |
-# #           export JEKYLL_VERSION=3.8
-# #           docker run \
-# #           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-# #           -e PAGES_REPO_NWO=${{ github.repository }} \
-# #           jekyll/builder:$JEKYLL_VERSION /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"name: Beautiful Jekyll CI
-      
-# #       - name: Build site
-# #         run: bundle exec appraisal jekyll build --future
-
-
 name: Beautiful Jekyll CI
 on: [push, pull_request]
 jobs:
@@ -81,16 +20,15 @@ jobs:
           docker run \
           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
           -e PAGES_REPO_NWO=${{ github.repository }} \
-          jekyll/builder:$JEKYLL_VERSION /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future || { echo 'Jekyll build failed'; exit 1; }"
+          jekyll/builder:$JEKYLL_VERSION /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future 2>&1 | tee build.log || { echo 'Jekyll build failed'; cat build.log; exit 1; }"
       
       - name: Capture build logs
         if: failure()
         run: |
           echo "Capturing logs for debugging"
-          cat _site/jekyll-build.log || echo "No logs found"
+          cat build.log || echo "No logs found"
 
       - name: Check Build Output
         run: |
           echo "Build output:"
           ls -al _site
-
