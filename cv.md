@@ -1,15 +1,25 @@
 ---
 layout: page
 title: Dr Joe Alexander Kaczmarski
-subtitle: structural biologist | protein engineer | lecturer & mentor
+subtitle: structural biologist & protein engineer | scientific & AI consulting | lecturer & mentor | dad
 
 ---
 {% include social-networks-links.html %}
 &nbsp;
 
-### Qualifications
+### Qualifications & Experience
 
-**2021 -**  
+**2023 -**  
+**Scientific Consultant**  
+JK Consulting
+- Providing scientific advice on protein design, protein production, scale-up, and strategy to Biotech Industry. 
+- Translating complex scientific concepts into clear understandable, and actionable, information
+- Scientific visualisation: images, animations and figures
+- AI-readiness advice for scientists
+- Scientific editing
+- Building tools and workflows to optimise scientific workflows
+
+**2021 - 2025**  
 **Lecturer, ARC Centre of Excellence in Synthetic Biology, Research School of Biology**  
 The Australian National University, Canberra 
 - Lecturing & designing/running workshops in CHEM2211 Chemical Biology 1 + CHEM2208 Chemical Biology 2
