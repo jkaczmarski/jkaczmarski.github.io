@@ -7,13 +7,7 @@ sub-title: Contact Joe
 {% include social-networks-links.html %}
 
 <p style="text-align: center;">or send me a message using <a href = "https://us1.list-manage.com/contact-form?u=6fe0e6e4fa54216a2c3ae1c7d&form_id=11d5ee4b5e84bc95ecd8f2ceb3acebf1">this form</a>.</p>
-  
-I'm currently working at the **Research School of Biology** at **The Australian National University** in Canberra, ACT, Australia. If you're in the area, let me know & let's catch up! 
-  
-<p style="text-align: center;">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3257.1737108455054!2d149.1145795152478!3d-35.27680708029056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b164d4573dd03f7%3A0xf9a1457c5ee41c62!2sResearch%20School%20of%20Biology!5e0!3m2!1sen!2sau!4v1675334760129!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
 
-&nbsp;
 ### 📨 Keeping in contact
 Let's stay in contact - please sign up to my mailing list.
 <!-- Begin Mailchimp Signup Form -->
