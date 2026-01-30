@@ -3,10 +3,12 @@ layout: page
 sub-title: Contact Joe
 ---
 
- <p style="text-align: center;">Reach out by email or social media:</p>
+<div style="width: 100%; text-align: center;">
+<p>Reach out by email or social media:</p>
 {% include social-networks-links.html %}
 
-<p style="text-align: center;">or send me a message using <a href = "https://us1.list-manage.com/contact-form?u=6fe0e6e4fa54216a2c3ae1c7d&form_id=11d5ee4b5e84bc95ecd8f2ceb3acebf1">this form</a>.</p>
+<p>or send me a message using <a href = "https://us1.list-manage.com/contact-form?u=6fe0e6e4fa54216a2c3ae1c7d&form_id=11d5ee4b5e84bc95ecd8f2ceb3acebf1">this form</a>.</p>
+</div>
 
 ### 📨 Keeping in contact
 Let's stay in contact - please sign up to my mailing list.
